@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:at="http://purl.org/atompub/tombstones/1.0">
   <title>A6 真实验收测试源（合成内容）</title>
   <id>urn:a6-real:feed</id>
-  <updated>2026-10-12T00:00:00Z</updated>
+  <updated>2026-10-13T01:00:00Z</updated>
   <author><name>测试</name></author>
   <entry>
     <id>urn:a6-real:item-1</id>
     <title>测试条目一</title>
-    <updated>2026-10-12T00:00:00Z</updated>
-    <summary>这是第一条合成测试内容，第一版。</summary>
+    <updated>2026-10-13T01:00:00Z</updated>
+    <summary>这是第一条合成测试内容，第二版（已修改）。</summary>
   </entry>
   <entry>
     <id>urn:a6-real:item-2</id>
