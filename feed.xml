@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:at="http://purl.org/atompub/tombstones/1.0">
-  <title>A6 真实验收测试源（合成内容）</title>
-  <id>urn:a6-real:feed</id>
-  <updated>2026-10-13T02:00:00Z</updated>
-  <author><name>测试</name></author>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>媒体 app 合成测试源</title>
+  <id>urn:media-app:atom-test-feed</id>
+  <updated>2026-10-19T08:00:00Z</updated>
+  <author><name>atom-test-feed 所有者</name></author>
   <entry>
-    <id>urn:a6-real:item-1</id>
-    <title>测试条目一</title>
-    <updated>2026-10-13T01:00:00Z</updated>
-    <summary>这是第一条合成测试内容，第二版（已修改）。</summary>
+    <id>urn:media-app:atom-test-feed:a7-real-01</id>
+    <title>（合成测试）某市三季度新能源汽车产量数据</title>
+    <link href="https://xiaobai00110.github.io/atom-test-feed/a7-real-01"/>
+    <updated>2026-10-19T08:00:00Z</updated>
+    <summary>本条为端到端验收用的合成文字，不是真实新闻。某市统计局称，三季度全市新能源汽车产量 12.4 万辆，同比增长 18.5%。同期充电桩新增 3200 个。统计局表示，产量增长主要来自两家整车厂的新产线投产。有分析人士推测，四季度产量可能继续增长。</summary>
   </entry>
-  <at:deleted-entry ref="urn:a6-real:item-2" when="2026-10-13T02:00:00Z"/>
 </feed>
